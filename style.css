@@ -1,0 +1,52 @@
+body{
+    background-color: #000;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    color: #fff;
+}
+header{
+    background-image: url(./img/Records.jpg);
+}
+img{
+    width: 500px;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+h3{
+    font-size: 18px;
+}
+p{
+    font-size: 16px;
+}
+.first--segment{
+    background-color: #ef8354;
+}
+.second--segment{
+    background-color: #0e7c7b;
+}
+.third--segment{
+    background-color: #9c538b;
+}
+span{
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: #ef8354;
+}
+a:hover{
+    color: #9c528b;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
